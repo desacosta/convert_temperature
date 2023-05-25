@@ -1,6 +1,6 @@
 def fahrenheit_to_celsius(temp_fahrenheit):
 	"""
-	Converts temperature from Fahrenheit to Celsius
+	Converts temperature from Fahrenheit to Celsius using the conversion formula
 
 	Parameters:
 	temperature_fahrenheit
