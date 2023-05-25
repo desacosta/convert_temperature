@@ -8,4 +8,4 @@ def fahrenheit_to_celsius(temp_fahrenheit):
 	Returns:
 	temperature_celsius
 	"""
-	return (temp_fahrenheit-32)*(5/9)
+	return (temp_fahrenheit+32)*(5/9)
